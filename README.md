@@ -31,9 +31,10 @@
 </div>
 
 ## 🔗 How to Reach Me
+#### Feel free to reach out to me via email: emaurigomesneto@gmail.com
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emauri-gomes-gaspar-neto/)
 
-#### Feel free to reach out to me via email: emaurigomesneto@gmail.com
+
 
 ## Acknowledgments
 Thanks for visiting my profile and checking out my projects. I hope you find something useful or inspiring here!
