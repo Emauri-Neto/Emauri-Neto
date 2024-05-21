@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-* *In the final stages of completing a Bachelor's degree in Computer Science at Universidade Católica de Brasília (6/8)*.
+* *In the final stages of completing a Bachelor's degree in Computer Science at Universidade Católica de Brasília (7/8)*.
 * *I am a Fullstack Developer!*
 
 ## 🛠 Skills
