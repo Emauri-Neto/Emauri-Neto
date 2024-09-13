@@ -2,8 +2,7 @@
 
 ## 🚀 About Me
 
-* *In the final stages of completing a Bachelor's degree in Computer Science at Universidade Católica de Brasília (7/8)*.
-* *I am a Fullstack Developer!*
+*Software developer who enjoys turning ideas into functional code. From architecture to deployment, always exploring how technology can solve real-world problems. Currently focused on backend, with a touch of frontend to keep things balanced.*
 
 ## 🛠 Skills
 #### Programming Languages:
@@ -11,8 +10,8 @@
 <div style="text-align: center;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
 </div>
 
 #### Technologies:
