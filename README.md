@@ -1,4 +1,4 @@
-# Hi, I'm Emauri-Neto 👋
+# Hi, I'm Emauri 👋
 
 **Software Engineer**
 
